@@ -10,7 +10,7 @@ from utils.db_connection import run_command, run_query
 # -------------------------------------------------------
 # YOUR API KEY — paste your RapidAPI key here
 # -------------------------------------------------------
-API_KEY  = "9083d39540msh7b6680af06eca46p1e40b9jsnb441a8a11b18"
+API_KEY  = "YOUR_API_KEY"
 API_HOST = "cricbuzz-cricket.p.rapidapi.com"
 
 HEADERS = {
